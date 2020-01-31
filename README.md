@@ -36,3 +36,4 @@ pip3 install -r requirements.txt
 - Maze entrance and exit are randomly generated as well for each level.
 - Maze is guaranteed to have one and only path.
 - Sound effect is played when player reaches the exit in each level.
+[![Run on Repl.it](https://repl.it/badge/github/balloonio/maze-runner)](https://repl.it/github/balloonio/maze-runner)
